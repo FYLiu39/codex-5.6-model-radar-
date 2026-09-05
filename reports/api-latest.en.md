@@ -2,8 +2,8 @@
 
 [简体中文](api-latest.zh-CN.md) · [Project home](../README.md) · [API history CSV](../data/api/model_iq_history.csv) · [Monitor status](../data/api/monitor_status.json)
 
-**Last successful check:** `2026-09-05T20:44:03+00:00`  
-**Current API snapshot:** `72fe212ecc717040`  
+**Last successful check:** `2026-09-05T22:21:39+00:00`  
+**Current API snapshot:** `57cbc60d60c2d9e4`  
 **Source observation:** `2026-09-02T20:11:35.648389+08:00`  
 **New snapshot detected:** yes  
 **Models returned:** 11
@@ -19,9 +19,9 @@
 | 1 | Luna Max | 109 | 81/112 | 112 | $54.22 | 2,164,371,875 | 76.54h |
 | 2 | Terra Max | 106.3 | 79/112 | 112 | $420.43 | 1,244,001,980 | 58.89h |
 | 3 | Gpt-5.5 Xhigh | 103.6 | 77/112 | 112 | $638.89 | 897,004,843 | 43.83h |
-| 4 | Sol Xhigh | 102.2 | 76/112 | 112 | $579.97 | 826,516,553 | 46.53h |
+| 4 | Sol Xhigh | 102.2 | 76/112 | 112 | $578.85 | 826,265,228 | 46.38h |
 | 5 | Sol High | 96.9 | 72/112 | 112 | $469.79 | 583,688,338 | 36.98h |
-| 6 | Sol Medium | 96.9 | 72/112 | 112 | $312.41 | 413,513,307 | 27.13h |
+| 6 | Sol Medium | 95.5 | 71/112 | 112 | $312.43 | 414,988,420 | 27.15h |
 | 7 | Gpt-5.5 High | 86.1 | 64/112 | 112 | $397.70 | 535,403,747 | 27.73h |
 | 8 | Terra Xhigh | 86.1 | 64/112 | 112 | $210.68 | 587,416,643 | 36.41h |
 | 9 | Sol Low | 79.4 | 59/112 | 112 | $170.73 | 208,709,234 | 18.68h |
@@ -36,4 +36,4 @@
 - When source data is unchanged, the automation still updates its heartbeat without presenting it as a new benchmark batch.
 - The raw API response is not stored in the public repository; only required model-summary fields are archived.
 
-Archived API snapshots: **408**.
+Archived API snapshots: **409**.
