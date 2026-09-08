@@ -7,8 +7,8 @@
 
 [English](api-latest.en.md) · [项目首页](../README.md) · [API 历史 CSV](../data/api/model_iq_history.csv) · [监控状态](../data/api/monitor_status.json)
 
-**最近成功检查：** `2026-09-08T17:33:31+00:00`  
-**当前 API 快照：** `d50e1eb206bf5250`  
+**最近成功检查：** `2026-09-08T20:19:09+00:00`  
+**当前 API 快照：** `dd2a9a1febfe0c91`  
 **源站观测时间：** `2026-09-02T20:11:35.648389+08:00`  
 **本次发现新快照：** 是  
 **返回模型数：** 11
@@ -21,7 +21,7 @@
 
 | 排名 | 模型档位 | 源站分数 | 通过 | 任务数 | 费用 | 总 Token | 耗时 |
 |---:|---|---:|---:|---:|---:|---:|---:|
-| 1 | Luna Max | 107.6 | 80/112 | 112 | $54.33 | 2,113,757,696 | 74.59h |
+| 1 | Luna Max | 107.6 | 80/112 | 112 | $54.34 | 2,109,560,673 | 74.58h |
 | 2 | Terra Max | 106.3 | 79/112 | 112 | $420.54 | 1,243,148,712 | 58.93h |
 | 3 | Gpt-5.5 Xhigh | 104.9 | 78/112 | 112 | $638.91 | 898,444,667 | 43.51h |
 | 4 | Sol Xhigh | 100.9 | 75/112 | 112 | $577.41 | 828,153,093 | 46.74h |
@@ -41,7 +41,7 @@
 - 源站数据未变化时，自动任务仍会更新监控心跳，但不会把它描述成新的模型测试批次。
 - 原始 API 响应不写入公开仓库，只保存必要的模型摘要字段。
 
-当前已归档 API 快照数：**413**。
+当前已归档 API 快照数：**414**。
 
 
 ---
@@ -51,8 +51,8 @@
 
 [简体中文](api-latest.zh-CN.md) · [Project home](../README.md) · [API history CSV](../data/api/model_iq_history.csv) · [Monitor status](../data/api/monitor_status.json)
 
-**Last successful check:** `2026-09-08T17:33:31+00:00`  
-**Current API snapshot:** `d50e1eb206bf5250`  
+**Last successful check:** `2026-09-08T20:19:09+00:00`  
+**Current API snapshot:** `dd2a9a1febfe0c91`  
 **Source observation:** `2026-09-02T20:11:35.648389+08:00`  
 **New snapshot detected:** yes  
 **Models returned:** 11
@@ -65,7 +65,7 @@
 
 | Rank | Model tier | Source score | Passed | Tasks | Cost | Total tokens | Wall time |
 |---:|---|---:|---:|---:|---:|---:|---:|
-| 1 | Luna Max | 107.6 | 80/112 | 112 | $54.33 | 2,113,757,696 | 74.59h |
+| 1 | Luna Max | 107.6 | 80/112 | 112 | $54.34 | 2,109,560,673 | 74.58h |
 | 2 | Terra Max | 106.3 | 79/112 | 112 | $420.54 | 1,243,148,712 | 58.93h |
 | 3 | Gpt-5.5 Xhigh | 104.9 | 78/112 | 112 | $638.91 | 898,444,667 | 43.51h |
 | 4 | Sol Xhigh | 100.9 | 75/112 | 112 | $577.41 | 828,153,093 | 46.74h |
@@ -85,5 +85,5 @@
 - When source data is unchanged, the automation still updates its heartbeat without presenting it as a new benchmark batch.
 - The raw API response is not stored in the public repository; only required model-summary fields are archived.
 
-Archived API snapshots: **413**.
+Archived API snapshots: **414**.
 
